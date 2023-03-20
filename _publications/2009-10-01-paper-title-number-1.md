@@ -1,12 +1,12 @@
 ---
-title: "DuDoRNeXt: a hybrid model for MRI reconstruction"
+title: "DuDoRNeXt: a hybrid model for undersampled MRI reconstruction"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'Introduction.'
 date: 2023-3-20
 venue: 'arXiv'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: Ziqi Gao, S. Kevin Zhou. (2023). "DuDoRNeXt: a hybrid model for MRI reconstruction"; <i>arXiv</i>. 1(1).'
+citation: Ziqi Gao, S. Kevin Zhou. (2023). "DuDoRNeXt: a hybrid model for undersampled MRI reconstruction"; <i>arXiv</i>.123.123.'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
