@@ -20,7 +20,7 @@ Research experience
   * Supervisor: Prof. [S. Kevin Zhou](http://bme.ustc.edu.cn/2021/1115/c28129a532912/page.htm)
   * Projects involved: undersampled MRI reconstruction
 
-* 2021.10-2022.6: Undergraduate Research Assistant in Shanghaitech University
+* 2020.10-2021.8: Undergraduate Research Assistant in Shanghaitech University
   * Supervisor: Dr. Yuyao Zhang [中](https://sist.shanghaitech.edu.cn/2020/0707/c7499a53859/page.htm) [EN](https://sist.shanghaitech.edu.cn/sist_en/_t113/2020/0814/c7582a54827/page.htm)
   * Projects involved: Unsupervised super-resolution of 3D MR images; Single View 3D Hand Pose Estimation Enhanced by Electromyographic (EMG) Signals.
   
