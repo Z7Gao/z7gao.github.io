@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 -----
-* B.E. in Computer Science and Technology, ShanghaiTech University, 2018-2022
 * M.S. in Biomedical Engineering, University of Science and Technology of China, 2022-2025 (expected)
+* B.E. in Computer Science and Technology, ShanghaiTech University, 2018-2022
 
 Research experience
 ---
