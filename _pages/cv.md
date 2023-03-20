@@ -31,11 +31,11 @@ Skills
 * Programming Languages: Python, C++/C, Matlab, RISC-V
 * Software & Tools: Pytorch, LaTeX, Insight Toolkit, OpenCV, OpenGL, ROS
 * English: TOEFL: 108, CET4: 666, CET6: 595
-* AI courses: (* denotes graduate-level courses.)
-  * CS Basics: Computer Architecture(A), Signals and Systems(A), Software Engineerng(A), Algorithms and Data Structure(A-), Algorithm Analysis*(A+), Parrallel Algorithm*  
-  * Math Theory: Linear Algebra(A), Math Theory II for BME*(91), Convex Optimization* 
-  * Application: Artificial Intelligence(A), Computer Vision(A+), Computer Graphics II*(A+), Robotics*(A) 
-  * Interdiscipline: Medical Image Computing*, Medical Visuliazation*, Cognitive Neuroscience(psychology)*
+* AI courses: (*Italic* denotes graduate-level courses.)
+  * Computation: Computer Architecture(A), Signals and Systems(A), Software Engineerng(A), Algorithms and Data Structure(A-), *Algorithm Analysis(A+), Parrallel Algorithm*  
+  * Math Theory: Linear Algebra(A), Mathematical Analysis(B+), *Math Theory II for BME(91), Convex Optimization, Matrix Analysis and Application*
+  * Application: Artificial Intelligence(A), Computer Vision(A+), *Computer Graphics II(A+), Robotics(A)* 
+  * Interdiscipline: *Medical Image Computing, Medical Visuliazation, Cognitive Neuroscience(psychology)*
 
 Arxiv preprints
 ======
