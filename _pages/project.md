@@ -9,22 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Efficient Image Collection for the Mapper Robot II
 -----
-* M.S. in Biomedical Engineering, University of Science and Technology of China, 2022-2025 (expected)
-* B.E. in Computer Science and Technology, ShanghaiTech University, 2018-2022
-  * GPA: 3.73/4.00, ranking Top 6%.
-  * Honored with ShanghaiTech outstanding graduate in the class of 2022.
+* [project page](https://robotics.shanghaitech.edu.cn/node/308)
+* A project of the Robotics 2020 class of the School of Information Science and Technology (SIST) of ShanghaiTech University.
+* Course Instructor: [Prof. Sören Schwertfeger](https://robotics.shanghaitech.edu.cn/people/soeren).
+* To avoid the limitation of the ROS transmission bandwidths on the second version of the MARS Mapper Robot dataset collection, this project is to develop a new image compression method which can produce fast and highquality image compression and saving.
 
-Research experience
+C-based Emulator of RISC-V ISA
 ---
-* 2022.3-now: Graduate Research Assistant in USTC
-  * Supervisor: Prof. [S. Kevin Zhou](http://bme.ustc.edu.cn/2021/1115/c28129a532912/page.htm)
-  * Projects involved: undersampled MRI reconstruction
-
-* 2020.10-2021.8: Undergraduate Research Assistant in Shanghaitech University
-  * Supervisor: Dr. Yuyao Zhang [中](https://sist.shanghaitech.edu.cn/2020/0707/c7499a53859/page.htm) [EN](https://sist.shanghaitech.edu.cn/sist_en/_t113/2020/0814/c7582a54827/page.htm)
-  * Projects involved: Unsupervised super-resolution of 3D MR images; Single View 3D Hand Pose Estimation Enhanced by Electromyographic (EMG) Signals.
+* A project of the [Computer Architecture 2021](https://robotics.shanghaitech.edu.cn/courses/ca/21s/) class of the School of Information Science and Technology (SIST) of ShanghaiTech University.
+* Course Instructor: [Prof. Sören Schwertfeger](https://robotics.shanghaitech.edu.cn/people/soeren).
+* This project implements a disassembler that reproduces the original RISC-V instructions from 32-bit integer in a human-readable format and executes each instruction including performing memory accesses.
   
 Skills
 -----
