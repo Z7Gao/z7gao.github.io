@@ -17,14 +17,6 @@ Education
 * M.S. in Biomedical Engineering, University of Science and Technology of China, 2022-now
 * B.E. in Computer Science and Technology, ShanghaiTech University, 2018-2022
 
-
-[Publication](publications.md)
-------
-**Arxiv preprints**
-
-
-
-
 Press Coverage
 ---
 * [我院高子淇同学在第二届中国科大“寰宇杯”英文演讲比赛中荣获二等奖](http://bme.ustc.edu.cn/2022/1223/c32532a589164/page.htm)
