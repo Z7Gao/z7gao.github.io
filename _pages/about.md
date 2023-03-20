@@ -20,17 +20,3 @@ Education
 Press Coverage
 ---
 * [我院高子淇同学在第二届中国科大“寰宇杯”英文演讲比赛中荣获二等奖](http://bme.ustc.edu.cn/2022/1223/c32532a589164/page.htm)
-
-
-Teaching & Services
----
-**USTC**
-  * Student propogandist for [MIRACLE Lab](https://miracle.ustc.edu.cn/main.htm).
-
-
-**ShanghaiTech University**
-  * [20spring, 20fall, 21fall] [Introduction to Information Science and Technology(SI 100B)](https://sist.shanghaitech.edu.cn/2022/0820/c2858a779948/page.htm)
-  * [20summer] English Lexicology(GEHA 1073)
-  * [21spring] Computer Science Graduate Course: Algorithm Analysis and Design(CS 240)
-  * [21spring] Signals and Systems(EE150) 
-
