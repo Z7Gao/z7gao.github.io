@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Ziqi Gao"
-  avatar           : "profile.png"
+  avatar           : "gz.jpg"
   bio              : "Master at USTC"
   location         : "Suzhou & Hefei, China"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : "https://z7gao.github.io"
+  email            : "gaozqqd@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -101,7 +101,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.cn/incareer/in/ACoAAC0_Om0BFR9RhEZUb7O_Z9RvIoewxk5YHf4"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
