@@ -6,7 +6,7 @@ excerpt: 'Introduction.'
 date: 2023-3-20
 venue: 'arXiv'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: Ziqi Gao, S. Kevin Zhou. (2023). "DuDoRNeXt: a hybrid model for undersampled MRI reconstruction"; <i>arXiv</i>.123.123.'
+citation: "Ziqi Gao, S. Kevin Zhou. (2023). DuDoRNeXt: a hybrid model for undersampled MRI reconstruction, arxiv 23212.11111"
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
