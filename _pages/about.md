@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am currently a first year M.S. student in the [Department of Biomedical Engineering](http://bme.ustc.edu.cn/), [University of Science and Technology of China](https://www.ustc.edu.cn/index.htm), supervised by [Prof. Shaohua Kevin Zhou](http://bme.ustc.edu.cn/2021/1115/c28129a532912/page.htm). I am proud to be a member of [MIRACLE Lab 奇迹实验室](https://miracle.ustc.edu.cn/main.htm).
+你好！ I am currently a first year M.S. student in the [Department of Biomedical Engineering](http://bme.ustc.edu.cn/), [University of Science and Technology of China](https://www.ustc.edu.cn/index.htm), supervised by [Prof. Shaohua Kevin Zhou](http://bme.ustc.edu.cn/2021/1115/c28129a532912/page.htm). I am proud to be a member of [MIRACLE Lab 奇迹实验室](https://miracle.ustc.edu.cn/main.htm).
 
-My research interest lies in computer vision and machine learning with applications for medical imaging. Recently I focus on neural network design for undersampled MRI reconstruction.
+My research interest lies in computer vision and machine learning with applications for medical imaging. Recently I focus on elaborating neural network design for undersampled MRI reconstruction.
 
 Education
 ---
+* M.S. in Biomedical Engineering, University of Science and Technology of China, 2022-now
 * B.E. in Computer Science and Technology, ShanghaiTech University, 2018-2022
-* M.S. in Biomedical Engineering, University of Science and Technology of China, 2022-2025 (expected)
 
 Work experience
 ---
@@ -28,7 +28,7 @@ Work experience
   * Projects involved: Unsupervised super-resolution of 3D MR images; Single View 3D Hand Pose Estimation Enhanced by Electromyographic (EMG) Signals.
 
 
-Publication
+[Publication](publications.md)
 ------
 **Arxiv preprints**
 
