@@ -13,10 +13,12 @@ Education
 -----
 * M.S. in Biomedical Engineering, University of Science and Technology of China, 2022-2025 (expected)
 * B.E. in Computer Science and Technology, ShanghaiTech University, 2018-2022
+  * GPA: 3.73/4.00, ranking Top 6%.
+  * Honored with ShanghaiTech outstanding graduate in the class of 2022.
 
 Research experience
 ---
-* 2022.9-now: Graduate Research Assistant in USTC
+* 2022.3-now: Graduate Research Assistant in USTC
   * Supervisor: Prof. [S. Kevin Zhou](http://bme.ustc.edu.cn/2021/1115/c28129a532912/page.htm)
   * Projects involved: undersampled MRI reconstruction
 
