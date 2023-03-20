@@ -18,4 +18,4 @@ Hobbies
 
 
 * In my spare time, I enjoy making pour-over coffee. 
-  * Random thinking about coffee and research: Making a nice cup of pour-over coffee is similar to designing a strong neural network. It requires a deep understanding of different parameters deciding gases, tastes and mouthfeel (function of neural network building blocks), coffee bean (distinctive learning tasks), and a lot of trials and errors (experiments). 
+  * Random thinking about coffee and research: Making a nice cup of pour-over coffee is similar to designing a strong neural network. It requires a deep understanding of different parameters deciding gases, tastes and mouthfeel (functions of neural network building blocks), coffee bean (distinctive learning tasks), and a lot of trials and errors (experiments). 
