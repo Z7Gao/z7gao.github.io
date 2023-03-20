@@ -36,28 +36,3 @@ Skills
   * Math Theory: Linear Algebra(A), Mathematical Analysis(B+), *Math Theory II for BME(91), Convex Optimization, Matrix Analysis and Application*
   * Application: Artificial Intelligence(A), Computer Vision(A+), *Computer Graphics II(A+), Robotics(A)* 
   * Interdiscipline: *Medical Image Computing, Medical Visuliazation, Cognitive Neuroscience(psychology)*
-
-Arxiv preprints
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
