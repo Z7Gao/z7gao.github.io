@@ -13,7 +13,7 @@ Education
 -----
 * M.S. in Biomedical Engineering, University of Science and Technology of China, 2022-2025 (expected)
 * B.E. in Computer Science and Technology, ShanghaiTech University, 2018-2022
-  * GPA: 3.73/4.00, ranking Top 6%.
+  * GPA: 3.73/4.00, ranking Top 6% in major.
   * Honored with ShanghaiTech outstanding graduate in the class of 2022.
 
 Research experience
