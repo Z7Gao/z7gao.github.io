@@ -35,4 +35,4 @@ Skills
   * *Computation*:  Computer Architecture(A), Signals and Systems(A), Software Engineerng(A), Algorithms and Data Structure(A-), <u>Algorithm Analysis</u>(A+), <u>Parrallel Algorithm</u>  
   * *Math*: Linear Algebra(A), Mathematical Analysis(B+), <u>Math Theory II for BME(91)</u>, <u>Convex Optimization</u>, <u>Matrix Analysis and Application</u>
   * *Application*: Artificial Intelligence(A), Computer Vision(A+), <u>Computer Graphics II</u>(A+), <u>Robotics(A)</u>
-  * *Interdiscipline*:<u>Biomedical basics I&II(86, 94)</u>, <u>Medical Image Computing</u>, <u>Medical Visuliazation</u>, <u>Cognitive Neuroscience(psychology)</u>
+  * *Interdiscipline*: <u>Biomedical basics I&II(86, 94)</u>, <u>Medical Image Computing</u>, <u>Medical Visuliazation</u>, <u>Cognitive Neuroscience(psychology)</u>
