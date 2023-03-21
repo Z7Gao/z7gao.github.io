@@ -23,6 +23,13 @@ Single View 3D Hand Pose Estimation Enhanced by Electromyographic (EMG) Signals
     * Develops a Python toolkit for data pre-processing and visualization with several gesture recognition methods, including traditional machine learning algorithms and neural network, implemented.
     * Observes that hard pose estimation with self-occlusion show typical patterns in EMG signals.
 
+High-Resolution MR Image Reconstruction via Implicit Neural Representation
+---
+  * Research project involved when I was in [Dr. Yuyao Zhang](https://sist.shanghaitech.edu.cn/sist_en/_t113/2020/0814/c7582a54827/page.htm)'s lab.
+  * Duties:
+    * Fast prototype ideas for a robust unsupervised MRI reconstruction algorithm based on neural implicit representation.
+    * Carry out experiments on self-acquired QSM images.
+    * Cooperate with Ph.Ds instructed by [Prof. Garth Thompson](https://ihuman.shanghaitech.edu.cn/Garth/main.htm)in mouse knee MR imaging.
 
 C-based Emulator of RISC-V ISA
 ---
