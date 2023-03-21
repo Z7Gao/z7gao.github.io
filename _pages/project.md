@@ -13,7 +13,7 @@ redirect_from:
 -----
   * A project of the Robotics 2020 class of the School of Information Science and Technology (SIST) of ShanghaiTech University.
   * Course Instructor: [Prof. Sören Schwertfeger](https://robotics.shanghaitech.edu.cn/people/soeren).
-  * To avoid the limitation of the ROS transmission bandwidths on the second version of the MARS Mapper Robot dataset collection, this project is to develop a new image compression method which can produce fast and highquality image compression and saving.
+  * To avoid the limitation of the ROS transmission bandwidths on the second version of the MARS Mapper Robot dataset collection, this project develops a new image compression method which can produce fast and highquality image compression and saving.
 
 Single View 3D Hand Pose Estimation Enhanced by Electromyographic (EMG) Signals
 ---
