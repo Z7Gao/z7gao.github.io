@@ -11,7 +11,7 @@ redirect_from:
 
 USTC
 -----
-  * Student propogandist for [MIRACLE Lab](https://miracle.ustc.edu.cn/main.htm).
+  * Student propagandist for [MIRACLE Lab](https://miracle.ustc.edu.cn/main.htm).
 
 
 ShanghaiTech University
