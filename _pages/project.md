@@ -29,7 +29,7 @@ High-Resolution MR Image Reconstruction via Implicit Neural Representation
   * Duties:
     * Fast prototype ideas for a robust unsupervised MRI reconstruction algorithm based on neural implicit representation.
     * Carry out experiments on self-acquired QSM images.
-    * Cooperate with Ph.Ds instructed by [Prof. Garth Thompson](https://ihuman.shanghaitech.edu.cn/Garth/main.htm)in mouse knee MR imaging.
+    * Cooperate with Ph.Ds instructed by [Prof. Garth Thompson](https://ihuman.shanghaitech.edu.cn/Garth/main.htm) in mouse knee MR imaging.
 
 C-based Emulator of RISC-V ISA
 ---
