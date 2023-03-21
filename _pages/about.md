@@ -13,10 +13,10 @@ redirect_from:
 My research interest lies in computer vision and machine learning with applications for medical imaging. Recently I focus on elaborating neural network archtectures for undersampled MRI reconstruction.
 
 Education
----
-* M.S. in Biomedical Engineering, University of Science and Technology of China, 2022-now
+-----
+* M.S. in Biomedical Engineering, University of Science and Technology of China, 2022-2025 (expected)
 * B.E. in Computer Science and Technology, ShanghaiTech University, 2018-2022
-  * GPA: 3.73/4.00, ranking Top 6% in major.
+  * GPA: 3.73/4.00, ranking 6% in CS major.
   * Honored with ShanghaiTech outstanding graduate in the class of 2022.
 * Visiting student in University of Padova, Italy, 2019.8-2019.9
   * Summer course in General Arts and Science.
