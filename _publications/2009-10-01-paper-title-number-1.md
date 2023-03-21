@@ -10,5 +10,5 @@ citation: "Ziqi Gao, S. Kevin Zhou. (2023). DuDoRNeXt: a hybrid model for unders
 ---
 By taking effectiveness and efficiency into account, we propose a CNN-ViT hybrid model DuDoRNeXt that achieves SoTA performance under multiple conventions of undersampled MRI reconstruction on several datasets including the IXI dataset. We propse a novel hybridizing strategy for vertical layout design and propose domain-specifc modules that further boost its performance.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://arxiv.org/abs/2303.10611)
 
