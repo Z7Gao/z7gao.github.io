@@ -17,8 +17,8 @@ redirect_from:
 
 Single View 3D Hand Pose Estimation Enhanced by Electromyographic (EMG) Signals
 ---
-  * Research project involved when I was in Dr. Yuyao Zhang's lab.
-  * Duties
+  * Research project involved when I was in [Dr. Yuyao Zhang](https://sist.shanghaitech.edu.cn/sist_en/_t113/2020/0814/c7582a54827/page.htm)'s lab.
+  * Duties:
     * Sets up and validates a synchronized data collection system of both EMG signals and images.
     * Develops a Python toolkit for data pre-processing and visualization with several gesture recognition methods, including traditional machine learning algorithms and neural network, implemented.
     * Observes that hard pose estimation with self-occlusion show typical patterns in EMG signals.
