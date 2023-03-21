@@ -18,7 +18,7 @@ Education
 * B.E. in Computer Science and Technology, ShanghaiTech University, 2018-2022
   * GPA: 3.73/4.00, ranking Top 6% in major.
   * Honored with ShanghaiTech outstanding graduate in the class of 2022.
-* Visiting student in University of Padova, Italy, 2019.8 - 2019.9
+* Visiting student in University of Padova, Italy, 2019.8-2019.9
   * Summer course in General Arts and Science.
 
 Press Coverage
