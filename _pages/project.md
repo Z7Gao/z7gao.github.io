@@ -27,9 +27,9 @@ High-Resolution MR Image Reconstruction via Implicit Neural Representation
 ---
   * Research project involved when I was in [Dr. Yuyao Zhang](https://sist.shanghaitech.edu.cn/sist_en/_t113/2020/0814/c7582a54827/page.htm)'s lab.
   * Duties:
-    * Fast prototype ideas for a robust unsupervised MRI reconstruction algorithm based on neural implicit representation.
-    * Carry out experiments on self-acquired QSM images.
-    * Cooperate with Ph.Ds instructed by [Prof. Garth Thompson](https://ihuman.shanghaitech.edu.cn/Garth/main.htm) in mouse knee MR imaging.
+    * Fast prototypes unsupervised MRI reconstruction methods based on INR.
+    * Preprocesses and carries out experiments on self-acquired QSM images.
+    * Cooperate with Ph.D. students instructed by [Prof. Garth Thompson](https://ihuman.shanghaitech.edu.cn/Garth/main.htm) in mouse knee MR imaging.
 
 C-based Emulator of RISC-V ISA
 ---
