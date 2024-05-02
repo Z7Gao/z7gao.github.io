@@ -18,9 +18,9 @@ I am passionate about advancing biomedical imaging for both clinical and scienti
 
 News
 ---
-* 2024/05: I received ISBI 2024 student travel grant. I'll be in Greece at May 26 to May 31 and present some oral papers. Feel free to reach out!
-* 2024/04: One first-author paper accepted by ISBI as an oral paper.
-* 2023/09: I received first-class graduate student scholarship, 2023.
+* 2024/05: I receive ISBI 2024 student travel grant award. I'll be in Greece at May 26 to May 31 and present some oral papers. Feel free to reach out!
+* 2024/04: One first-author paper is accepted by ISBI 2024 (oral).
+* 2023/09: I receive first-class graduate student scholarship, 2023, USTC.
 
 Education
 -----
