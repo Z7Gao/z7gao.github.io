@@ -3,6 +3,8 @@ layout: archive
 title: "Publications"
 permalink: /publication/
 author_profile: true
+redirect_from:
+  - /resume
 ---
 
 * **Ziqi Gao**, S. Kevin Zhou. *Rethinking dual-domain undersampled MRI reconstruction: domain-specific design from the perspective of the receptive field*. **ISBI 2024 (Oral)** [[pdf]](https://arxiv.org/abs/2303.10611)

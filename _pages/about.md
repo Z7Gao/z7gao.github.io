@@ -8,9 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-News
----
-* 2024/05: I received ISBI 2024 student travel grant. I'll be in Greece at May 26 to May 31 and present some oral papers. Feel free to reach out!
 
 欢迎您来！Welcome! I am currently a first year M.S. student in the [Department of Biomedical Engineering](http://bme.ustc.edu.cn/), [University of Science and Technology of China](https://www.ustc.edu.cn/index.htm), supervised by [Prof. Shaohua Kevin Zhou](http://bme.ustc.edu.cn/2021/1115/c28129a532912/page.htm). I am proud to be a member of [MIRACLE Lab 奇迹实验室](https://miracle.ustc.edu.cn/main.htm).
 
@@ -19,11 +16,16 @@ My research interest includes undersampled MRI reconstruction and MRI generation
 I am passionate about advancing biomedical imaging for both clinical and scientific purposes using generative models. Free free to reach me out at [email](gaozqqd@gmail.com) if we have shared interest. 
 
 
+News
+---
+* 2024/05: I received ISBI 2024 student travel grant. I'll be in Greece at May 26 to May 31 and present some oral papers. Feel free to reach out!
+* 2024/04: One first-author paper accepted by ISBI as an oral paper.
+* 2023/09: I received first-class graduate student scholarship, 2023.
 
 Education
 -----
 * M.S. in Biomedical Engineering, University of Science and Technology of China, 2022-2025 (expected)
-  * First-level graduate student scholarship, 2022, 2023.
+  * First-class graduate student scholarship, 2022, 2023.
 * B.E. in Computer Science and Technology, ShanghaiTech University, 2018-2022
   * GPA: 3.73/4.00, ranking 6% in CS major.
   * Honored with ShanghaiTech outstanding graduate in the class of 2022.
