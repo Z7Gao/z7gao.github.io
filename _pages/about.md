@@ -17,6 +17,7 @@ I am passionate about advancing biomedical imaging for both clinical and scienti
 Education
 -----
 * M.S. in Biomedical Engineering, University of Science and Technology of China, 2022-2025 (expected)
+  * First-level graduate student scholarship, 2022, 2023.
 * B.E. in Computer Science and Technology, ShanghaiTech University, 2018-2022
   * GPA: 3.73/4.00, ranking 6% in CS major.
   * Honored with ShanghaiTech outstanding graduate in the class of 2022.
@@ -26,3 +27,7 @@ Education
 Press Coverage
 ---
 * [我院高子淇同学在第二届中国科大“寰宇杯”英文演讲比赛中荣获二等奖](http://bme.ustc.edu.cn/2022/1223/c32532a589164/page.htm)
+
+News
+---
+* 2024/05: I received ISBI 2024 student travel grant. I'll be in Greece at May 26 to May 31 and present some oral papers. Feel free to reach out!

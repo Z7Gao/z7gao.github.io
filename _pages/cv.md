@@ -18,7 +18,7 @@ Education
 * Visiting student in University of Padova, Italy, 2019.8-2019.9
   * Summer course in General Arts and Science.
   
-Research experience
+Research Experience
 ---
 * 2022.3-now: Graduate Research Assistant in USTC
   * Supervisor: Prof. [S. Kevin Zhou](http://bme.ustc.edu.cn/2021/1115/c28129a532912/page.htm)
