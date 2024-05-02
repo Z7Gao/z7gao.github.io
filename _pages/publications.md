@@ -14,11 +14,10 @@ redirect_from:
 {% include base_path %} -->
 
 
-[TEST]
------
-  * A project of the Robotics 2020 class of the School of Information Science and Technology (SIST) of ShanghaiTech University.
-  * Course Instructor: [Prof. Sören Schwertfeger](https://robotics.shanghaitech.edu.cn/people/soeren).
-  * To avoid the limitation of the ROS transmission bandwidths on the second version of the MARS Mapper Robot dataset collection, this project develops a new image compression method which can produce fast and highquality image compression and saving.
+* **Ziqi Gao**, S. Kevin Zhou. *Rethinking dual-domain undersampled MRI reconstruction: domain-specific design from the perspective of the receptive field*. **ISBI 2024 (Oral)** [[pdf]](https://arxiv.org/abs/2303.10611)
+* **Ziqi Gao**, S. Kevin Zhou. *U2MRPD: Unsupervised undersampled MRI reconstruction by prompting a large latent diffusion model*. **In submission.** [[pdf]](https://arxiv.org/abs/2402.10609)
+* **Ziqi Gao**, Yue Zhang, Xinwen Liu, Kaiyan Li, S. Kevin Zhou. *DuDoUniNeXt: Dual-domain unified hybrid model for single and multi-contrast undersampled MRI reconstruction*. **In submission.** [[pdf]](https://arxiv.org/abs/2403.05256)
+
 
 <!-- 
 {% for post in site.publications reversed %}
