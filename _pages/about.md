@@ -8,11 +8,17 @@ redirect_from:
   - /about.html
 ---
 
+News
+---
+* 2024/05: I received ISBI 2024 student travel grant. I'll be in Greece at May 26 to May 31 and present some oral papers. Feel free to reach out!
+
 欢迎您来！Welcome! I am currently a first year M.S. student in the [Department of Biomedical Engineering](http://bme.ustc.edu.cn/), [University of Science and Technology of China](https://www.ustc.edu.cn/index.htm), supervised by [Prof. Shaohua Kevin Zhou](http://bme.ustc.edu.cn/2021/1115/c28129a532912/page.htm). I am proud to be a member of [MIRACLE Lab 奇迹实验室](https://miracle.ustc.edu.cn/main.htm).
 
 My research interest includes undersampled MRI reconstruction and MRI generation. I have experienced in developing methodology with Vision Transformers and diffusion models.
 
 I am passionate about advancing biomedical imaging for both clinical and scientific purposes using generative models. Free free to reach me out at [email](gaozqqd@gmail.com) if we have shared interest. 
+
+
 
 Education
 -----
@@ -27,7 +33,3 @@ Education
 Press Coverage
 ---
 * [我院高子淇同学在第二届中国科大“寰宇杯”英文演讲比赛中荣获二等奖](http://bme.ustc.edu.cn/2022/1223/c32532a589164/page.htm)
-
-News
----
-* 2024/05: I received ISBI 2024 student travel grant. I'll be in Greece at May 26 to May 31 and present some oral papers. Feel free to reach out!
