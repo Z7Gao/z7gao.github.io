@@ -7,6 +7,3 @@ date: 2024
 author: Ziqi Gao, S. Kevin Zhou.
 paperurl: 'https://arxiv.org/abs/2303.10611'
 ---
-
-[Download paper here](https://arxiv.org/abs/2303.10611)
-
