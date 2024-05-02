@@ -3,16 +3,7 @@ layout: archive
 title: "Publications"
 permalink: /publication/
 author_profile: true
-redirect_from:
-  - /resume
 ---
-
-<!-- {% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %} -->
-
 
 * **Ziqi Gao**, S. Kevin Zhou. *Rethinking dual-domain undersampled MRI reconstruction: domain-specific design from the perspective of the receptive field*. **ISBI 2024 (Oral)** [[pdf]](https://arxiv.org/abs/2303.10611)
 * **Ziqi Gao**, S. Kevin Zhou. *U2MRPD: Unsupervised undersampled MRI reconstruction by prompting a large latent diffusion model*. **In submission.** [[pdf]](https://arxiv.org/abs/2402.10609)
