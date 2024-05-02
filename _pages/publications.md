@@ -1,8 +1,10 @@
 ---
 layout: archive
 title: "Publications"
-permalink: /project/
+permalink: /publication/
 author_profile: true
+redirect_from:
+  - /resume
 ---
 
 {% if author.googlescholar %}
@@ -18,7 +20,7 @@ author_profile: true
   * Course Instructor: [Prof. Sören Schwertfeger](https://robotics.shanghaitech.edu.cn/people/soeren).
   * To avoid the limitation of the ROS transmission bandwidths on the second version of the MARS Mapper Robot dataset collection, this project develops a new image compression method which can produce fast and highquality image compression and saving.
 
-
+<!-- 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %} -->
