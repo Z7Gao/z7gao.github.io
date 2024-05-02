@@ -3,6 +3,7 @@ title: "Rethinking Dual-Domain Undersampled MRI reconstruction: domain-specific 
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 venue: 'ISBI 2024 (oral)'
+time: 2024
 author: Ziqi Gao, S. Kevin Zhou.
 paperurl: 'https://arxiv.org/abs/2303.10611'
 ---
