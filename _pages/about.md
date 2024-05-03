@@ -11,16 +11,17 @@ redirect_from:
 
 欢迎您来！Welcome! I am currently a first year M.S. student in the [Department of Biomedical Engineering](http://bme.ustc.edu.cn/), [University of Science and Technology of China](https://www.ustc.edu.cn/index.htm), supervised by [Prof. Shaohua Kevin Zhou](http://bme.ustc.edu.cn/2021/1115/c28129a532912/page.htm). I am proud to be a member of [MIRACLE Lab 奇迹实验室](https://miracle.ustc.edu.cn/main.htm).
 
-My research interest includes undersampled MRI reconstruction and MRI generation. I have experienced in developing methodology with Vision Transformers and diffusion models.
+My research interest includes undersampled MRI reconstruction and MRI generation. I have experiences in developing methodology with Vision Transformers and diffusion models.
 
-I am passionate about advancing biomedical imaging for both clinical and scientific purposes using generative models. Free free to reach me out at [email](gaozqqd@gmail.com) if we have shared interest. 
+I am passionate about advancing biomedical imaging for both clinical and scientific purposes using generative models. Free free to reach me out at [email](gaozqqd@gmail.com) if we have shared interests. 
 
 
 News
 ---
-* 2024/05: I receive ISBI 2024 student travel grant award. I'll be in Greece at May 26 to May 31 and present some oral papers. Feel free to reach out!
-* 2024/04: One first-author paper is accepted by ISBI 2024 (oral).
-* 2023/09: I receive first-class graduate student scholarship, 2023, USTC.
+* 2024/05: I receive the ISBI 2024 student travel grant award. I'll be in Greece at May 26 to May 31 and present some oral papers. Feel free to reach out!
+* 2024/04: One paper is accepted by ISBI 2024 (oral).
+* 2023/09: I receive USTC first-class graduate student scholarship, 2023.
+* 2022/09: I receive USTC first-class graduate student scholarship, 2022.
 
 Education
 -----
