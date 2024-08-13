@@ -9,17 +9,19 @@ redirect_from:
 ---
 
 
-欢迎您来！Welcome! I am currently a first year M.S. student in the [Department of Biomedical Engineering](http://bme.ustc.edu.cn/), [University of Science and Technology of China](https://www.ustc.edu.cn/index.htm), supervised by [Prof. Shaohua Kevin Zhou](http://bme.ustc.edu.cn/2021/1115/c28129a532912/page.htm). I am proud to be a member of [MIRACLE Lab 奇迹实验室](https://miracle.ustc.edu.cn/main.htm).
+欢迎您来！Welcome! I am currently a second-year M.S. student in the [Department of Biomedical Engineering](http://bme.ustc.edu.cn/), [University of Science and Technology of China](https://www.ustc.edu.cn/index.htm), supervised by [Prof. Shaohua Kevin Zhou](http://bme.ustc.edu.cn/2021/1115/c28129a532912/page.htm). I am proud to be a member of [MIRACLE Lab 奇迹实验室](https://miracle.ustc.edu.cn/main.htm).
 
-My research interest includes undersampled MRI reconstruction and MRI generation. I have experiences in developing methodology with Vision Transformers and diffusion models.
-
-I am passionate about advancing biomedical imaging for both clinical and scientific purposes using generative models. Free free to reach me out at [email](gaozqqd@gmail.com) if we have shared interests. 
+I am passionate about developing and prompting generative models for biomedical applications. Feel free to reach out at [email](gaozqqd@gmail.com) if we have shared interests. 
 
 
 News
 ---
-* 2024/05: I receive the ISBI 2024 student travel grant award. I'll be in Greece at May 26 to May 31 and present some oral papers. Feel free to reach out!
+* 2024/08: I gave a talk at Stanford Medicine hosted by Professor Lei Xing. Topic: Prior-informed learning for solving inverse problems in medical imaging.
+* 2024/07: I am chilling in the Bay Area this summer. Feel free to reach out!
+* 2024/05: I receive the ISBI 2024 student travel grant award. I'll be in Greece from May 26 to May 31 and present some oral papers. Feel free to reach out!
 * 2024/04: One paper is accepted by ISBI 2024 (oral).
+* 2024/01: I gave a talk about diffusion models for MR imaging at SIST, ShanghaiTech hosted by Dr. Yuyao Zhang. 
+* 2023/12: I gave a guest lecture for the Medical Image Computing Course at USTC hosted by Professor S. Kevin Zhou. Topic: Generative (diffusion) models basics.
 * 2023/09: I receive USTC first-class graduate student scholarship, 2023.
 * 2022/09: I receive USTC first-class graduate student scholarship, 2022.
 
@@ -30,7 +32,7 @@ Education
 * B.E. in Computer Science and Technology, ShanghaiTech University, 2018-2022
   * GPA: 3.73/4.00, ranking 6% in CS major.
   * Honored with ShanghaiTech outstanding graduate in the class of 2022.
-* Visiting student in University of Padova, Italy, 2019.8-2019.9
+* Visiting student at University of Padova, Italy, 2019.8-2019.9
   * Summer course in General Arts and Science.
 
 Press Coverage
