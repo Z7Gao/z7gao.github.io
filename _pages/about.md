@@ -11,7 +11,9 @@ redirect_from:
 
 欢迎您来！Welcome! I am currently a final-year M.S. student in the [Department of Biomedical Engineering](http://bme.ustc.edu.cn/), [University of Science and Technology of China](https://www.ustc.edu.cn/index.htm), supervised by [Prof. Shaohua Kevin Zhou](http://bme.ustc.edu.cn/2021/1115/c28129a532912/page.htm). I am proud to be a member of [MIRACLE Lab 奇迹实验室](https://miracle.ustc.edu.cn/main.htm). I am also fortunate to work with Prof. [Lei Xing](https://profiles.stanford.edu/lei-xing) from Stanford University and Dr. [Yuyao Zhang](https://sist.shanghaitech.edu.cn/zhangyy8_en/main.htm) from ShanghaiTech University.
 
-I enjoy doing computational imaging and computer vision research driven by real-world problems, ranging from sparsely sampled reconstruction to super-resolution. I am skilled at designing image restoration and generation algorithms with denoising diffusion models, implicit neural representation, and ViT.
+I enjoy doing research driven by real-world applications. Specifically, I aim to recover signals beyond normal human and machine perception.
+* **Application**: MRI and volumetric CT reconstruction, image generation, image super-resolution, etc. 
+* **Methodology**: Diffusion Model, Implicit Neural Representation, Vision Transformer, IQA, etc.
 
 News
 ---
