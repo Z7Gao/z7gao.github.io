@@ -29,6 +29,7 @@ News
 Education
 -----
 * M.S. in Biomedical Engineering, University of Science and Technology of China, 2022-2025 (expected)
+  * Thesis Topic: Universal Multi-Contrast Undersampled MRI Reconstruction.  
   * First-class graduate student scholarship, 2022, 2023.
 * B.E. in Computer Science and Technology, ShanghaiTech University, 2018-2022
   * GPA: 3.73/4.00, ranking 6% in CS major.
