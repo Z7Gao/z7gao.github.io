@@ -19,12 +19,12 @@ News
 ---
 * 2024/08: I gave a talk at Stanford Medicine hosted by Professor Lei Xing. Topic: Prior-informed learning for solving inverse problems in medical imaging.
 * 2024/07: I am chilling in the Bay Area this summer. Feel free to reach out!
-* 2024/05: I receive the ISBI 2024 student travel grant award. I'll be in Greece from May 26 to May 31 and present some oral papers. Feel free to reach out!
+* 2024/05: I received the ISBI 2024 student travel grant award. I'll be in Greece from May 26 to May 31 and present some oral papers. Feel free to reach out!
 * 2024/04: One paper is accepted by ISBI 2024 (oral).
 * 2024/01: I gave a talk about diffusion models for MR imaging at SIST, ShanghaiTech hosted by Dr. Yuyao Zhang. 
 * 2023/12: I gave a guest lecture for the Medical Image Computing Course at USTC hosted by Professor S. Kevin Zhou. Topic: Generative (diffusion) models basics.
-* 2023/09: I receive USTC first-class graduate student scholarship, 2023.
-* 2022/09: I receive USTC first-class graduate student scholarship, 2022.
+* 2023/09: I received the USTC first-class graduate student scholarship, 2023-2024.
+* 2022/09: I received the USTC first-class graduate student scholarship, 2022-2023.
 
 Education
 -----
