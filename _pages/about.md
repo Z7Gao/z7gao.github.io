@@ -11,9 +11,9 @@ redirect_from:
 
 欢迎您来！Welcome! I am currently a final-year M.S. student in the [Department of Biomedical Engineering](http://bme.ustc.edu.cn/), [University of Science and Technology of China](https://www.ustc.edu.cn/index.htm), supervised by [Prof. Shaohua Kevin Zhou](http://bme.ustc.edu.cn/2021/1115/c28129a532912/page.htm). I am proud to be a member of [MIRACLE Lab 奇迹实验室](https://miracle.ustc.edu.cn/main.htm). I am also fortunate to work with Prof. [Lei Xing](https://profiles.stanford.edu/lei-xing) from Stanford University and Dr. [Yuyao Zhang](https://sist.shanghaitech.edu.cn/zhangyy8_en/main.htm) from ShanghaiTech University.
 
-I enjoy doing research driven by real-world applications. Specifically, I aim to recover signals beyond normal human and machine perception.
+I enjoy doing AI research driven by real-world biomedicine applications. I have experience in recovering 2D and 3D signals beyond normal machine perception.
 * **Application**: MRI and volumetric CT reconstruction, image generation, image super-resolution, etc. 
-* **Methodology**: Diffusion Model, Implicit Neural Representation, Vision Transformer, IQA, etc.
+* **Methodology**: Diffusion Model, Implicit Neural Representation, Neural Radiance Field, Vision Transformer, IQA, etc.
 
 News
 ---
@@ -29,7 +29,7 @@ News
 Education
 -----
 * M.S. in Biomedical Engineering, University of Science and Technology of China, 2022-2025 (expected)
-  * Thesis Topic: Universal Multi-Contrast Undersampled MRI Reconstruction.  
+  * Thesis Topic: Universal Multi-Sequence Undersampled MRI Reconstruction.  
   * First-class graduate student scholarship, 2022, 2023.
 * B.E. in Computer Science and Technology, ShanghaiTech University, 2018-2022
   * GPA: 3.73/4.00, ranking 6% in CS major.
