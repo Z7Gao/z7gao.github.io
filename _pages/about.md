@@ -13,10 +13,11 @@ redirect_from:
 
 I enjoy doing AI research driven by real-world biomedicine applications. I have experience in recovering 2D and 3D signals beyond normal machine perception.
 * **Application**: MRI and volumetric CT reconstruction, image generation, image super-resolution, etc. 
-* **Methodology**: Diffusion Model, Implicit Neural Representation, Neural Radiance Field, Vision Transformer, IQA, etc.
+* **Methodology**: Diffusion Model, Implicit Neural Representation, (HQ) Neural Radiance Field, Vision Transformer, IQA, etc.
 
 News
 ---
+* 2024/09: I gave a talk at UCB hosted by Professor Chunlei Liu. Topic: Universal multi-sequence MRI reconstruction.
 * 2024/08: I gave a talk at Stanford Medicine hosted by Professor Lei Xing. Topic: Prior-informed learning for solving inverse problems in medical imaging.
 * 2024/07: I am chilling in the Bay Area this summer. Feel free to reach out!
 * 2024/05: I received the ISBI 2024 student travel grant award. I'll be in Greece from May 26 to May 31 and present some oral papers. Feel free to reach out!
@@ -39,4 +40,5 @@ Education
 
 Press Coverage
 ---
+* [医学影像智能与机器人研究中心多项成果入选ISBI 2024](https://sz.ustc.edu.cn/kxyj_show/159.html)
 * [我院高子淇同学在第二届中国科大“寰宇杯”英文演讲比赛中荣获二等奖](http://bme.ustc.edu.cn/2022/1223/c32532a589164/page.htm)
