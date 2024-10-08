@@ -11,7 +11,7 @@ redirect_from:
 
 欢迎您来！Welcome! I am currently a final-year M.S. student in the [Department of Biomedical Engineering](http://bme.ustc.edu.cn/), [University of Science and Technology of China](https://www.ustc.edu.cn/index.htm), supervised by [Prof. Shaohua Kevin Zhou](http://bme.ustc.edu.cn/2021/1115/c28129a532912/page.htm). I am proud to be a member of [MIRACLE Lab 奇迹实验室](https://miracle.ustc.edu.cn/main.htm). I am also fortunate to work with Prof. [Lei Xing](https://profiles.stanford.edu/lei-xing) from Stanford University and Dr. [Yuyao Zhang](https://sist.shanghaitech.edu.cn/zhangyy8_en/main.htm) from ShanghaiTech University.
 
-I enjoy doing AI research driven by real-world biomedicine applications and particularly drawn by deep generative models. I have experience in recovering 2D and 3D signals beyond normal machine perception.
+I enjoy doing AI research driven by real-world biomedicine applications. Recently, I have been particularly drawn by deep generative models. 
 * **Application**: MRI and volumetric CT reconstruction, image generation, image super-resolution, etc. 
 * **Methodology**: Diffusion Model, Implicit Neural Representation, (HQ) Neural Radiance Field, Vision Transformer, IQA, etc.
 
