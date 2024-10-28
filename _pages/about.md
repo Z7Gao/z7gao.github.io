@@ -17,6 +17,7 @@ I enjoy doing AI research driven by real-world biomedicine tasks. Recently, I ha
 
 News
 ---
+* 2024/10: One paper is accepted by WACV 2025.
 * 2024/10: I received the USTC first-class graduate student scholarship, 2024-2025.
 * 2024/09: I gave a talk at UCB hosted by Professor Chunlei Liu. Topic: Universal multi-sequence undersampled MRI reconstruction.
 * 2024/08: I gave a talk at Stanford Medicine hosted by Professor Lei Xing. Topic: Prior-informed learning for solving inverse problems in medical imaging.
