@@ -13,11 +13,13 @@ redirect_from:
 I am currently a final-year M.S. student in the [Department of Biomedical Engineering](http://bme.ustc.edu.cn/), [University of Science and Technology of China](https://www.ustc.edu.cn/index.htm), supervised by [Prof. S. Kevin Zhou](http://bme.ustc.edu.cn/2021/1115/c28129a532912/page.htm). I am proud to be a member of [MIRACLE Lab 奇迹实验室](https://miracle.ustc.edu.cn/main.htm). I am also fortunate to work with Prof. [Lei Xing](https://profiles.stanford.edu/lei-xing) from Stanford University and Dr. [Yuyao Zhang](https://sist.shanghaitech.edu.cn/zhangyy8_en/main.htm) from ShanghaiTech University.
 
 I enjoy doing research driven by real-world biomedicine applications. 
-* **Application**: Image reconstruction, generation, and super-resolution for MRI, CT, dynamic OCT, and natural images. 
+* **Application**: Image restoration, generation, and super-resolution for MRI, CT, dynamic OCT, and natural images. 
 * **Methodology**: Diffusion Model, Implicit Neural Representation, (HQ) Neural Radiance Field, Vision Transformer, IQA, etc.
 
 News
 ---
+* 2024/11: I served as a reviewer for International Society for Magnetic Resonance in Medicine (ISMRM). 
+* 2024/11: I served as a reviewer for IEEE Transactions on Multimedia. 
 * 2024/11: I received the National Scholarship (20000 CNY).
 * 2024/10: One paper is accepted by WACV 2025.
 * 2024/10: I received the USTC first-class graduate student scholarship, 2024-2025.
