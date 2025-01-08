@@ -18,7 +18,8 @@ I enjoy doing research driven by real-world biomedicine applications.
 
 News
 ---
-* 2024/11: I served as a reviewer for International Society for Magnetic Resonance in Medicine (ISMRM). 
+* 2024/12: I gave a guest lecture for the Medical Image Computing Course at USTC hosted by Professor S. Kevin Zhou. Topic: Generative (diffusion) models basics.
+* 2024/11: I served as a reviewer for International Society for Magnetic Resonance in Medicine (ISMRM) 2025. 
 * 2024/11: I served as a reviewer for IEEE Transactions on Multimedia. 
 * 2024/11: I received the National Scholarship (20000 CNY).
 * 2024/10: One paper is accepted by WACV 2025.
