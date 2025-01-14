@@ -18,7 +18,7 @@ I enjoy doing research driven by real-world biomedicine applications.
 
 News
 ---
-* 2025/01: I received the Suzhou Industrial Park Scholarship. (4000 CNY).
+* 2025/01: I received the Suzhou Industrial Park Scholarship (4000 CNY).
 * 2024/12: I gave a guest lecture for the Medical Image Computing Course at USTC hosted by Professor S. Kevin Zhou. Topic: Generative (diffusion) models basics.
 * 2024/11: I served as a reviewer for International Society for Magnetic Resonance in Medicine (ISMRM) 2025. 
 * 2024/11: I served as a reviewer for IEEE Transactions on Multimedia. 
