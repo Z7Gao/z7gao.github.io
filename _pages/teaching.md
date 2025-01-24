@@ -12,6 +12,7 @@ Reviewer
 -----
   *   IEEE Transactions on Multimedia
   *   International Society for Magnetic Resonance in Medicine (ISMRM) 2025
+  *   Conference on Computer Vision and Pattern Recognition (CVPR) 2025
 
 USTC
 -----
